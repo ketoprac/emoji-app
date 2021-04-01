@@ -1,3 +1,8 @@
+# Emoji App with React and OpenEmoji API
+
+API https://emoji-api.com/ \
+Demo https://optimistic-brown-ab4a0b.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
